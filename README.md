@@ -1,4 +1,8 @@
 # Ride-Sharing-Dispatch-Simulator
+🚖 Ride-Sharing Dispatch Simulator
+Python Status
+
+📌 Project Overview
 The Ride-Sharing Dispatch Simulator is a Python-based project that simulates how ride-hailing platforms (like Uber, Lyft, or Ola) assign drivers to riders. The goal is to demonstrate the use of queues, priority queues, and ride history management through a realistic problem statement.
 
 In this simulator, whenever a new ride request is generated, the system identifies and assigns the nearest available driver to the rider. If multiple drivers are equally close, the assignment is determined using driver ratings as a tie-breaker, ensuring that both proximity and service quality are taken into account.
@@ -90,4 +94,4 @@ Uses only standard library modules: dataclasses, collections, heapq, time, math
 This project is licensed under the MIT License. ✔ Free to use, modify, and distribute with attribution. ✔ No liability for issues arising from use.
 
 📊 Status
-🟢 Active → This project is being maintained and improved.
+🟢 Active → This project is being maintained and improved
